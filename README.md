@@ -19,7 +19,7 @@ I am a highly motivated and result oriented professional with **2.4 years of exp
 
 | Cloud Services   | DevOps Tools      | Scripting        | Monitoring      | Version Control |      OS        |
 |------------------|-------------------|------------------|-----------------|-----------------|----------------|
-| AWS (EC2, S3...) | Jenkins, Docker   | Bash, PowerShell | CloudWatch, ELK | Git, GitHub     | Linux, Windows |
+| AWS (EC2, S3...) | Jenkins, Docker   | Bash, PowerShell | CloudWatch      | Git, GitHub     | Linux, Windows |
 
 
 ---
