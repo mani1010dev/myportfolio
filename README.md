@@ -1,7 +1,7 @@
 # myportfolio
-# Hi, I'm Manikandan R 👋
+# Hi, I'm Manikandan R 
 
-🚀 \*\*Wireline Networking Engineer | AWS DevOps Enthusiast | Cloud & Automation\*\*
+ \*\*Wireline Networking Engineer | AWS DevOps Enthusiast | Cloud & Automation\*\*
 
 🌍 **Location**: Chennai, India\
 📫 **Email**: [rathinammani339@gmail.com](mailto\:rathinammani339@gmail.com)\
@@ -9,13 +9,13 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 I am a highly motivated and result oriented professional with **2.4 years of experience** in **wireline networking** and expertise in **cloud automation**. I thrive in designing scalable, automated, and efficient cloud solutions to enhance operational workflows.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 | Cloud Services   | DevOps Tools      | Scripting        | Monitoring      | Version Control |      OS        |
 |------------------|-------------------|------------------|-----------------|-----------------|----------------|
@@ -24,7 +24,7 @@ I am a highly motivated and result oriented professional with **2.4 years of exp
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### **Automated Deployment of a React App Using AWS & DevOps Tools**
 
@@ -40,7 +40,7 @@ I am a highly motivated and result oriented professional with **2.4 years of exp
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### **Design Engineer - CLIQ Solutions, Chennai (Apr 2022 – Feb 2024)**
 
@@ -56,7 +56,7 @@ I am a highly motivated and result oriented professional with **2.4 years of exp
 
 ---
 
-## 📜 Education & Certification
+## Education & Certification
 
 🎓 **B.E Civil Engineering** – SRM Valliammai Engineering College (2016-2020) – **70%**\
 🎓 **AWS DevOps Certification (GUVI) – July 2024 - Feb 2025**
@@ -65,7 +65,7 @@ I am a highly motivated and result oriented professional with **2.4 years of exp
 
 ---
 
-## 📢 Let's Connect!
+##  Let's Connect!
 
 🔗 🔗 **LinkedIn**: [Manikandan R](https://www.linkedin.com/in/mani-rathinam-775886215/)
 
